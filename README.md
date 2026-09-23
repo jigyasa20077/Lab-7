@@ -1,0 +1,3 @@
+Day 7 — Workplace Writing I
+
+Day 7 focused on using Generative AI for professional workplace communication in aviation. Students created structured prompts for passenger emails, complaint responses and internal staff communication. The activity introduced the six-part prompt structure and BLUF approach to make workplace communication clearer and more effective. Generated outputs were reviewed using accuracy, tone, compliance and context checks. Special attention was given to avoiding unsupported promises related to compensation, refunds, meals, accommodation and other airline policies unless they were verified.
